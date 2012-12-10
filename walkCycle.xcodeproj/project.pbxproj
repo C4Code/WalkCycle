@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EDA1AFC216766B880057E448 /* Walker.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA1AFC116766B880057E448 /* Walker.m */; };
+		EDA1AFCC167671870057E448 /* walkB0.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC4167671870057E448 /* walkB0.png */; };
+		EDA1AFCD167671870057E448 /* walkB1.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC5167671870057E448 /* walkB1.png */; };
+		EDA1AFCE167671870057E448 /* walkB2.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC6167671870057E448 /* walkB2.png */; };
+		EDA1AFCF167671870057E448 /* walkB3.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC7167671870057E448 /* walkB3.png */; };
+		EDA1AFD0167671870057E448 /* walkB4.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC8167671870057E448 /* walkB4.png */; };
+		EDA1AFD1167671870057E448 /* walkB5.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFC9167671870057E448 /* walkB5.png */; };
+		EDA1AFD2167671870057E448 /* walkB6.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFCA167671870057E448 /* walkB6.png */; };
+		EDA1AFD3167671870057E448 /* walkB7.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA1AFCB167671870057E448 /* walkB7.png */; };
 		EDACBB971647288C00B0F781 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDACBB961647288C00B0F781 /* Accelerate.framework */; };
 		EDACBB991647288C00B0F781 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDACBB981647288C00B0F781 /* AVFoundation.framework */; };
 		EDACBB9B1647288C00B0F781 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDACBB9A1647288C00B0F781 /* CoreFoundation.framework */; };
@@ -52,6 +61,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EDA1AFC016766B880057E448 /* Walker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Walker.h; sourceTree = "<group>"; };
+		EDA1AFC116766B880057E448 /* Walker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Walker.m; sourceTree = "<group>"; };
+		EDA1AFC4167671870057E448 /* walkB0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB0.png; sourceTree = "<group>"; };
+		EDA1AFC5167671870057E448 /* walkB1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB1.png; sourceTree = "<group>"; };
+		EDA1AFC6167671870057E448 /* walkB2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB2.png; sourceTree = "<group>"; };
+		EDA1AFC7167671870057E448 /* walkB3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB3.png; sourceTree = "<group>"; };
+		EDA1AFC8167671870057E448 /* walkB4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB4.png; sourceTree = "<group>"; };
+		EDA1AFC9167671870057E448 /* walkB5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB5.png; sourceTree = "<group>"; };
+		EDA1AFCA167671870057E448 /* walkB6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB6.png; sourceTree = "<group>"; };
+		EDA1AFCB167671870057E448 /* walkB7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkB7.png; sourceTree = "<group>"; };
 		EDACBB921647288C00B0F781 /* walkCycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = walkCycle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDACBB961647288C00B0F781 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		EDACBB981647288C00B0F781 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -198,6 +217,8 @@
 			isa = PBXGroup;
 			children = (
 				EDACBBB91647288C00B0F781 /* C4WorkSpace.m */,
+				EDA1AFC016766B880057E448 /* Walker.h */,
+				EDA1AFC116766B880057E448 /* Walker.m */,
 				EDACBBBB1647288C00B0F781 /* Framework */,
 				EDACBBE11647288D00B0F781 /* Media */,
 				EDACBBEA1647288E00B0F781 /* Logos */,
@@ -275,6 +296,14 @@
 				EDACBC1B16472B0900B0F781 /* walk5.png */,
 				EDACBC1C16472B0900B0F781 /* walk6.png */,
 				EDACBC1D16472B0900B0F781 /* walk7.png */,
+				EDA1AFC4167671870057E448 /* walkB0.png */,
+				EDA1AFC5167671870057E448 /* walkB1.png */,
+				EDA1AFC6167671870057E448 /* walkB2.png */,
+				EDA1AFC7167671870057E448 /* walkB3.png */,
+				EDA1AFC8167671870057E448 /* walkB4.png */,
+				EDA1AFC9167671870057E448 /* walkB5.png */,
+				EDA1AFCA167671870057E448 /* walkB6.png */,
+				EDA1AFCB167671870057E448 /* walkB7.png */,
 			);
 			name = Media;
 			sourceTree = "<group>";
@@ -381,6 +410,14 @@
 				EDACBC2616472B0900B0F781 /* walk0.png in Resources */,
 				EDACBC2716472B0900B0F781 /* walk1.png in Resources */,
 				EDACBC2816472B0900B0F781 /* walk2.png in Resources */,
+				EDA1AFCC167671870057E448 /* walkB0.png in Resources */,
+				EDA1AFCD167671870057E448 /* walkB1.png in Resources */,
+				EDA1AFCE167671870057E448 /* walkB2.png in Resources */,
+				EDA1AFCF167671870057E448 /* walkB3.png in Resources */,
+				EDA1AFD0167671870057E448 /* walkB4.png in Resources */,
+				EDA1AFD1167671870057E448 /* walkB5.png in Resources */,
+				EDA1AFD2167671870057E448 /* walkB6.png in Resources */,
+				EDA1AFD3167671870057E448 /* walkB7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,6 +431,7 @@
 				EDACBBB31647288C00B0F781 /* main.m in Sources */,
 				EDACBBB81647288C00B0F781 /* C4AppDelegate.m in Sources */,
 				EDACBBBA1647288C00B0F781 /* C4WorkSpace.m in Sources */,
+				EDA1AFC216766B880057E448 /* Walker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -520,6 +558,7 @@
 				EDACBC141647288E00B0F781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
